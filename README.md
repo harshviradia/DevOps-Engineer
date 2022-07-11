@@ -1,7 +1,7 @@
-TOOLS AND TECHNOLOGY
+<h1>TOOLS AND TECHNOLOGY</h1>
 
 
-2.1 INTRODUCTION TO LINUX
+<h2>2.1 INTRODUCTION TO LINUX</h2>
 
 •	Linux is a community of open-source Unix like operating systems that are based on the Linux Kernel. It is a free and open-source operating system and the source code can be modified and distributed to anyone commercially or noncommercially under the GNU General Public License. In this chapter we learned about basic commands, firewall management, process management.
 
