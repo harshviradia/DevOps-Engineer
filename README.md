@@ -16,6 +16,7 @@ TOOLS AND TECHNOLOGY
 
 •	A CI/CD pipeline automates your software delivery process. The pipeline builds code, runs tests (CI), and safely deploys a new version of the application (CD).
 
+![image](https://user-images.githubusercontent.com/60308162/178236813-5b0f444e-49b3-46dd-8d2b-12a6080f79d6.png)
 
  
 Fig 2.1 CICD 
@@ -27,7 +28,9 @@ Fig 2.1 CICD
 •	AWS CodeBuild-It is fully managed continuous integration service that complies source code,runs tests,and produces software packages that are ready to deploy.With codebuild,you don’t need to provision,build your own servers.
 •	AWS CodeDeploy- AWS CodeDeploy is a fully managed deployment service that automates software deployments to a variety of compute services such as Amazon EC2, AWS Fargate, AWS Lambda, and your on-premises servers. AWS CodeDeploy makes it easier for you to rapidly release new features, helps you avoid downtime during application deployment, and handles the complexity of updating your applications.
 
- 
+![image](https://user-images.githubusercontent.com/60308162/178236885-fcee3615-c5cf-4df3-b91d-c83260ebc5a0.png)
+
+
 Fig 2.2 Codepipeline
 
 2.5 HARDWARE REQUIREMENT
