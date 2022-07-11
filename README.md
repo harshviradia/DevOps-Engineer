@@ -175,18 +175,18 @@ Output Screenshots
 
 Table 3.7 Task 7
 
-	<h2>3.8 AWS CODEPIPELINE USING SOURCE,BUILD & DEPLOY</h2>
+<h2>3.8 AWS CODEPIPELINE USING SOURCE,BUILD & DEPLOY</h2>
 
 •	In this task,the main aim was to get introduce with workflow of CICD pipeline.i just created a pipeline and whenever a new change is commited, the pipeline gets executed.<br>
 
  
-	<h1>LEARNING EXPERIENCES</h1>
+<h1>LEARNING EXPERIENCES</h1>
 
 
-	<h2>4.1 KNOWLEDGE ACQUIRED/SKILLS LEARNT</h2>
+<h2>4.1 KNOWLEDGE ACQUIRED/SKILLS LEARNT</h2>
 
 ●	This internship helped us to gain knowledge regarding Linux,Docker and CICD.The most important thing we learnt is the debugging skill.We also learnt how to approach a task defiantion and to implement it.<br>
 
-	<h2>4.2 INDUSTRY PRACTICE ADAPTED</h2>
+<h2>4.2 INDUSTRY PRACTICE ADAPTED</h2>
 ●	Coding ethics<br>
 ●	Code review<br>
