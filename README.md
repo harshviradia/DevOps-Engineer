@@ -64,14 +64,8 @@
 
 ●	I performed this task on Linux OS using virtual box.Here I installed nginx server in the linux os and changed its configuration in the nginx.conf file.The nginx server is running on port 80,which can be changed in the configuration file.Also the Document root can be changed from here.<br>
 
-<center>Task 1</center>
-Task Description	Installation and configuration of nginx server
-Trigger	Server keeps on running
-Basic Path	/var/www/html
+![image](https://user-images.githubusercontent.com/60308162/178238788-69c0883c-ef65-46c5-8b14-1708c278722d.png)
 
-Post Condition	Welcome page
-Output Screenshots	  
-Table 3.1 Task1
 
 <h2>3.2 STATIC WEBSITE HOSTING ON APACHE/NGINX</h2>
 
@@ -81,64 +75,31 @@ Table 3.1 Task1
 
 
 
-Task 2
-Task Description	Static website hosting on nginx
-Trigger	Server keeps on running
-Document root	/var/www/html
-Config file	/etc/nginx/conf.d
-Output Screenshots	
- 
-Table3.2 Task 2
+![image](https://user-images.githubusercontent.com/60308162/178238879-ee69c796-d536-456d-b83d-0cb710590920.png)
 
 <h2>3.3 STATIC WEBSITE HOSTING USING USR/DIR AS DOCUMENT ROOT</h2>
 
 ●	The task is same as the above one,we just need to change the document root inside the configuration and the task is done.<br>
 ●	Hosting Php application on nginx server<br>
 
-Task 3
-Task Description	Static website hosting on apache/nginx server using user dir as  document root
-Trigger	Server keeps on running
-Document root	/var/www/html
-Config file	/etc/nginx/conf.d
-Output Screenshots	
- 
-Table 3.2 Task3
+![image](https://user-images.githubusercontent.com/60308162/178238980-549168b8-b318-41eb-811c-29c3e32d2cd4.png)
 
 
 
-
-
-
-
-	<h2>3.4 BRIDGE NETWORK IN DOCKER CONTAINER</h2>
+<h2>3.4 BRIDGE NETWORK IN DOCKER CONTAINER</h2>
 
 •	In this task, I created two containers ,one for php and other for database .Both the database and container must be in the same bridge network. Now, after creating the database we need to go inside the container and create a php file to connect to the database and to insert data into it. now we can check the data inserted by going inside the database container and checking the records.<br>
 
-Task 4
-Task Description	Hosting Php application on nginx server
-Trigger	Server keeps on running
-	
-Webserver	Nginx
-Output Screenshots	
- 
-Table 3.4 Task 4
+![image](https://user-images.githubusercontent.com/60308162/178239079-2cb7cd6d-192a-46a4-a3b8-429ec22810df.png)
 
-	<h2>3.5 HOSTING A STATIC WEBSITE ON DOCKER CONTAINER</h2>
+<h2>3.5 HOSTING A STATIC WEBSITE ON DOCKER CONTAINER</h2>
 
 •	In this task first create a dockerfile related to your website.Now after Creating the dockerfile,we need to create the image of it and there after building that image will create container with the static website.<br>
 
 
 
 
-Task 5
-Task Description	Bridge network in Docker Containers Bridge network in Docker Containers
-Trigger	no
-	
-Container	Docker
-Output Screenshots	
- 
-	
-Table 3.5 Task5
+![image](https://user-images.githubusercontent.com/60308162/178239349-e5d46530-bc00-4cd9-9267-b2995efb842a.png)
 
 3.6 WRITEFREELY APPLICATION DECOUPLED ARCHITECTURE ON DOCKER CONTAINER
 
@@ -153,27 +114,13 @@ Table 3.5 Task5
 
 
 
-Task 6
-Task Description	Hosting a static website on Docker Container
-Trigger	No
-	
-Container	Docker
-Output Screenshots	
- 
-Table 3.6 Task6
-3.7 AWS CODEPIPELINE USING SOURCE AND DEPLOY
+![image](https://user-images.githubusercontent.com/60308162/178239443-de05882a-044a-4d2f-bef7-8087277d6442.png)
 
-•	In this task,the main aim was to get introduce with workflow of CICD pipeline.i just created a pipeline and whenever a new change is commited, the pipeline gets executed.
+<h2>3.7 AWS CODEPIPELINE USING SOURCE AND DEPLOY</h2>
 
-Task 7
-Task Description	AWS Codepipeline using source and deploy
+•	In this task,the main aim was to get introduce with workflow of CICD pipeline.i just created a pipeline and whenever a new change is commited, the pipeline gets executed.<br>
 
-Trigger	Commit in the repository
-	
-Target	S3 Bucket
-Output Screenshots	
-
-Table 3.7 Task 7
+![image](https://user-images.githubusercontent.com/60308162/178239577-c4f8879a-c3aa-47db-a473-0acc175dab39.png)
 
 <h2>3.8 AWS CODEPIPELINE USING SOURCE,BUILD & DEPLOY</h2>
 
